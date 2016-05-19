@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[An Alliance of Professionals & Firms fostering integrated governance ]]></title>
         <description><![CDATA[An Alliance of Professionals & Firms fostering integrated governance ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/governingrisk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 May 2016 22:00:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 19 May 2016 22:12:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/governingrisk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Test Post]]></title>
+            <title><![CDATA[Welcome to Governance &Risk Innovation]]></title>
             <description><![CDATA[<p>www.solomon365.com</p>]]></description>
-            <link>undefinedtest-post/index.html</link>
+            <link>https://thegrid.ai/governingrisk/test-post/index.html</link>
             <guid isPermaLink="false">0bc5f2d4-6c3e-415f-8ce2-a26b017ac639</guid>
-            <pubDate>Thu, 19 May 2016 21:59:57 GMT</pubDate>
+            <pubDate>Thu, 19 May 2016 22:12:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
