@@ -1,0 +1,28 @@
+name: 'Governance & Risk Innovation'
+favicon: null
+layout_spectrum: 0.9100524201057851
+typography_spectrum: 0.43634164379909635
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.4665567302145064
+  lightness: 0.0658442685380578
+  saturation: 0.25375741464085877
+  rhythmicContrast: 0.1966511628124863
+purpose: []
